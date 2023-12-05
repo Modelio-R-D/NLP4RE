@@ -28,7 +28,7 @@ Python 3.8-3.9
 
 1. Clone the repository:
 ```
-$ git clone TODO
+$ git clone https://github.com/Modelio-R-D/NLP4RE.git
 $ cd NLP4RE
 ```
 
