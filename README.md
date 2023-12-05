@@ -7,12 +7,12 @@ The NLP4RE Prototype is designed for use in RE case studies where businesses and
 ## Roadmap
 This prototype application is still a work in progress and shall be updated with more features in the future.        
     
-Updates (Dec 2023):
-    - Release as a runnable web application
+**Updates (Dec 2023):**
+- Release as a runnable web application
+- Containerization with Docker
     
-Next:
-    - Containerization with Docker
-    - Separate the web back-end (Flask or FastAPI) and front-end (streamlit)
+**Next:**
+- Separate the web back-end (Flask or FastAPI) and front-end (streamlit)
 
 
 ## Prerequisites
