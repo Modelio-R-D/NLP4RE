@@ -53,6 +53,10 @@ streamlit run app.py --server.port 8502
 The first launch might take some time to download all necessary NLP models and libraries.
 
 ## Credits        
-This application was developed by Bilal Said within the framework of the AIDOaRt project and applied to datasets provided by Alstom (BT) on railway systems tender documents and HI iberia Ingenieria Y Proyectos SL (HIB) on Trello cards in Spanish. The NLP4RE Prototype is planned for integration in Modelio in case of validation for commercial use by the Modelio Core Development Team.
+This application was developed by Bilal Said from the Softeam R&D team within the framework of the AIDOaRt project and applied to datasets provided by Alstom (BT) on railway systems tender documents and HI iberia Ingenieria Y Proyectos SL (HIB) on Trello cards in Spanish. The NLP4RE Prototype is planned for integration in Modelio in case of validation for commercial use by the Modelio Core Development Team.
     
 The code base has been inspired by prototypes developed for the VeriDevOps project by Kirill Yakovlev, Andrey Sadovykh, and Alexander Naumchev.
+
+This work is supported by the European Commission through the link:
+[AIDOaRt Horizon Europe project](https://www.aidoart.eu/).
+
